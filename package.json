@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@azure/storage-blob": "^12.25.0",
+    "fs-extra": "^11.2.0",
+    "glob": "^11.0.0",
+    "ora": "^8.1.1",
+    "p-queue": "^8.0.1"
+  }
+}

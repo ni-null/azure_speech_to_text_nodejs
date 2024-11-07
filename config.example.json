@@ -1,0 +1,11 @@
+{
+  "ContainerUrl": "",
+  "SAS_KEY": "",
+  "init_blob": {
+    "showTotal": false,
+    "ext": [".wav", ".mp3"],
+    "syncWavToJsonConcurrency": 5,
+    "deleteNotExists": true,
+    "deleteNotExistsConcurrency": 5
+  }
+}
